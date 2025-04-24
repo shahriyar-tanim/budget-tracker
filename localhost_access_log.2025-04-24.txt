@@ -1,0 +1,4 @@
+0:0:0:0:0:0:0:1 - - [24/Apr/2025:19:50:22 +0600] "GET /BudgetTracker HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [24/Apr/2025:19:50:23 +0600] "GET /BudgetTracker/ HTTP/1.1" 200 1171
+0:0:0:0:0:0:0:1 - - [24/Apr/2025:19:50:23 +0600] "GET /BudgetTracker/css/style.css HTTP/1.1" 304 -
+0:0:0:0:0:0:0:1 - - [24/Apr/2025:19:50:23 +0600] "GET /BudgetTracker/assets/favicon.ico HTTP/1.1" 304 -
